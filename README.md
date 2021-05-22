@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devesh
-- 👀 MS Student @CSE IIT Delhi
+- 👀 MS(Research) Student @CSE IIT Delhi
 - 🌱 Working in the field of Computer Vision
 <!---
 pantDevesh/pantDevesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
